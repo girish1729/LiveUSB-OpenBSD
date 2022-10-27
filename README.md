@@ -1,7 +1,7 @@
 
 # LiveUSB OpenBSD - A bootable OpenBSD for your pendrive[amd64]
 
-![LiveUSB OpenBSD](https://raw.githubusercontent.com/girish1729/LiveUSB-OpenBSD/main/images/puffy72.gif)
+![LiveUSB OpenBSD](https://raw.githubusercontent.com/girish1729/LiveUSB-OpenBSD/main/images/puffy72.png)
 
 ## What is LiveUSB OpenBSD?
 
@@ -41,6 +41,8 @@ Also remember that these images ignore the size of the USB medium.
 The images you have here, all 3 flavors write to a 64 GB medium.
 
 Why? These days the USB pendrives found in market are of that capacity.
+
+You can find a much better [page at Sourceforge](https://liveusb-openbsd.sourceforge.io)
 
 ## Instructions for using this OS image
 
@@ -93,9 +95,9 @@ Please verify the SHA256 checksums from the table below.
 
 | Download file | Download image size |  [SHA256 Checksum](https://en.wikipedia.org/wiki/SHA_hash_functions) of ZIPPED image
 | ------------ | ---------- | -------- |
-|LiveUSB-Minimal.img |631274506 Bytes||
-|LiveUSB-XFCE.img | 1453189224 Bytes ||
-|LiveUSB-Gnome.img |2097576970 Bytes ||
+|LiveUSB-Minimal.img |628867626 Bytes|7a43aa5aacf111537a3a9ed17932ff975378d6544866b618d334f01bd2506894|
+|LiveUSB-XFCE.img |1506529382 Bytes |a3ee15cb1f625f90eba0d4cd4dcf2e72a35963def72ca0a5c23e0026b33a1b54|
+|LiveUSB-Gnome.img |2229280782 Bytes |5f4e2e27196c72bfdebf4f8dfffe59b6ee0ad9595f8bcc338ab482ebfd9c8544|
 
 ---
 

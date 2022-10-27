@@ -184,3 +184,22 @@ The rock solid stability and performance is a thing to experience.
 
 Please do not forget to thank the devs for an amazing project.
 
+## contact
+
+You can [DM me on Twitter](https://twitter.com/girish1729) for help/suggestions.
+
+You can [follow me](https://twitter.com/intent/follow?screen_name=girish1729
+) for updates.
+
+## Tweet this to followers
+
+
+<a href="https://twitter.com/intent/tweet?text=Tweet+this+to+your+followers&url=https%3A%2F%2Fgithub.com%2Fgirish1729%2Fprogress.up&hashtags=github&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Tweet this to your followers"></img>
+</a>
+
+## Buy me a coffee to accelerate development
+
+<a href="https://www.buymeacoffee.com/girish1729" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
